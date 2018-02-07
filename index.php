@@ -1,6 +1,6 @@
 <!--Inicio: Documentos requeridos -->
 <?php
-	include_once("inc/requerido.php"); 
+	 include_once("inc/requerido.php"); 
 ?>
 <!--Fin: Documentos requeridos -->
 <!--Inicio: classes -->
